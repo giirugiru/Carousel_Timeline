@@ -1,0 +1,24 @@
+PODS:
+  - AACarousel (1.1.1)
+  - Kingfisher (6.3.0)
+  - TimelineTableViewCell (2.2.2)
+
+DEPENDENCIES:
+  - AACarousel
+  - Kingfisher
+  - TimelineTableViewCell
+
+SPEC REPOS:
+  trunk:
+    - AACarousel
+    - Kingfisher
+    - TimelineTableViewCell
+
+SPEC CHECKSUMS:
+  AACarousel: e0dbd2d3153c56c36df8aa282553f20fc88e132b
+  Kingfisher: 6c3df386db71d82c0817a429d2c9421a77396529
+  TimelineTableViewCell: f0c35f7941775e48a5356e7c7ae3a5a51721c80a
+
+PODFILE CHECKSUM: 47a5478672a96ee97670a050ab2a0f8628e8d54f
+
+COCOAPODS: 1.10.1
